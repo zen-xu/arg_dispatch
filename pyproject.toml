@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "arg_dispatch"
+version = "0.1.0"
+description = ""
+authors = ["zen-xu <zen-xu@outlook.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
