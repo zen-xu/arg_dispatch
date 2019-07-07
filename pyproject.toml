@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "arg_dispatch"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["zen-xu <zen-xu@outlook.com>"]
 
