@@ -5,7 +5,7 @@ from arg_dispatch._arg_dispatch import ArgumentError
 
 
 def test_version():
-    assert __version__ == "0.1.2"
+    assert __version__ == "0.1.3"
 
 
 @dispatch
